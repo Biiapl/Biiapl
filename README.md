@@ -12,4 +12,10 @@
 
 </div>
 
+ **`Linguagens e Tecnologias`**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
+
 
